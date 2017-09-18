@@ -6,19 +6,19 @@ A web applicaiton for text summarization.
 
 **1. Get article summarized through web page**
 
-![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-b5f8e77c52.gif)
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-b5f8e77c52.gif)
 
 <br>
 
 **2. Get article summarized through Chrome extensoin**
 
-![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-4db3ebdc87.gif)
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-4db3ebdc87.gif)
 
 <br>
 
 **3. Add an article summary into database / Delete an article summary from database**
 
-![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-88936b4271.gif)
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-88936b4271.gif)
 
 <br>
 
@@ -26,13 +26,13 @@ A web applicaiton for text summarization.
 
 Use word embedidng techniques, e.g. Word2vec and fastText, to improve search result.
 
-![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-2b5b36bca2.gif)
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-a686dbd498.gif)
 
 <br>
 
 **5. Highlight keywords**
 
-![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-2def5e2164.gif)
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-2def5e2164.gif)
 
 <br>
 
