@@ -13,7 +13,7 @@ A web applicaiton for text summarization.
 ![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-4db3ebdc87.gif)
 
 **3. Add an article summary into database / Delete an article summary from database**
-![]()
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-88936b4271.gif)
 
 **4. Search for articles **
 ![]()
