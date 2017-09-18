@@ -31,7 +31,7 @@ Use word embedidng techniques, e.g. Word2vec and fastText, to improve search res
 <br>
 
 **5. Highlight keywords**
-![]()
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-2def5e2164.gif)
 
 <br>
 
