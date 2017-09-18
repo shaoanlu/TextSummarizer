@@ -24,3 +24,5 @@ Use word embedidng techniques, e.g. Word2vec and fastText, to improve search res
 * Gensim
 * Flask
 * SQLALcehmy
+* newspaper
+
