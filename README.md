@@ -26,7 +26,7 @@ A web applicaiton for text summarization.
 
 Use word embedidng techniques, e.g. Word2vec and fastText, to improve search result.
 
-![]()
+![](https://github.com/shaoanlu/TextSummarizer/blob/master/ezgif-2-2b5b36bca2.gif)
 
 <br>
 
