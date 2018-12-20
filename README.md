@@ -4,13 +4,13 @@ A web applicaiton for text summarization.
 
 ## Snapshots
 
-**1. Get article summarized through web page**
+**1. Get article summarized on TextSummarizer web page**
 
 ![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-b5f8e77c52.gif)
 
 <br>
 
-**2. Get article summarized through Chrome extensoin**
+**2. Get article summarized through TextSummarizer Chrome extensoin**
 
 ![](https://github.com/shaoanlu/TextSummarizer/blob/master/gifs/ezgif-2-4db3ebdc87.gif)
 
